@@ -11,9 +11,9 @@ A hardware-level digital system designed in Verilog for real-time PS/2 keyboard 
 
 ## 👥 Authors
 
-* **Odysseas Zachos** (ID: 1072640) — `st1072640@ceid.upatras.gr`
-* **Vlasios Panagiotis Panagiotou** (ID: 1067517) — `st1067517@ceid.upatras.gr`
-* **Konstantinos Paraskevopoulos** (ID: 1072608) — `st1072608@ceid.upatras.gr`
+* **Odysseas Zachos** 
+* **Vlasios Panagiotis Panagiotou** 
+* **Konstantinos Paraskevopoulos** 
 
 ---
 
